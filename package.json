@@ -1,0 +1,8 @@
+{
+  "name": "cinch-backend",
+  "version": "1.0.0",
+  "description": "Cinch Backend",
+  "main": "index.js",
+  "author": "Victor Adewumi <VictorOluwaseun@users.noreply.github.com>",
+  "license": "MIT"
+}
