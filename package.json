@@ -4,6 +4,10 @@
  "description": "Cinch Backend",
  "main": "index.js",
  "author": "Victor Adewumi <VictorOluwaseun@users.noreply.github.com>",
+ "scripts": {
+  "start": "node server",
+  "dev": "nodemon server"
+ },
  "license": "MIT",
  "dependencies": {
   "bcryptjs": "^2.4.3",
